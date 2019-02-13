@@ -58,7 +58,7 @@ flarum-tags:
     choose_tags:
       choose_primary_placeholder: "Kies een primaire categorie|Kies {count} primaire categorieën"
       choose_secondary_placeholder: "Kies nog 1 extra categorie|Kies nog {count} extra categorieën"
-      edit_title: "Ctegorieën bijwerken voor {title}"
+      edit_title: "Categorieën bijwerken voor {title}"
       submit_button: => core.ref.okay
       title: Kies categorieën voor je discussie
 
